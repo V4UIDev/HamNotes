@@ -1,2 +1,2 @@
 # HamNotes
-## Notes for amateur radio/electronics
+Notes for amateur radio/electronics
